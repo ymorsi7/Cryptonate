@@ -1,4 +1,7 @@
 # [Cryptonate](https://relaxed-custard-6b3462.netlify.app/)
+## [Demonstration Video](https://www.youtube.com/watch?v=hkwhaFEHS-k&ab_channel=YusufMorsi)
+![](thumbnail.png)
+
 ## Inspiration
 Inspired by the tweet posted by Ukraine stating their acceptance of cryptocurrency donations, we developed this site in order to simplify the process. A combination of the words "cryptocurrency" and "donate," this site aims to encourage cryptocurrency donations to Ukraine.
 ## What it does
